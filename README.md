@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragoenix99czar&label=Profile%20views&color=0e75b6&style=flat" alt="dragoenix99czar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dragoenix99czar" alt="dragoenix99czar" /></a> </p>
+<p align="left"> <a href="https://trophygithubreadmelang.cybee.dpdns.org/?username=Dragoenix99cZar&theme=dark"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Dragoenix99cZar&theme=dark" alt="dragoenix99czar" /></a> </p>
 
 - 🔭 I’m currently working on [lan_chat-go-rust-](https://github.com/Dragoenix99cZar/lan_chat-go-rust-)
 
