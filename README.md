@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragoenix99czar&label=Profile%20views&color=0e75b6&style=flat" alt="dragoenix99czar" /> </p>
 
-- 🔭 I’m currently working on [lan_chat-go-rust-](https://github.com/Dragoenix99cZar/lan_chat-go-rust-)
+- 🔭 I’m currently working on [File-Inspector (Rust)](https://github.com/Dragoenix99cZar/file-inspector)
 
 - 🌱 I’m currently learning **Rust, Go, Wasm**
 
@@ -11,11 +11,15 @@
 
 - 🤝 I’m looking for help with **Game Engine**
 
-- 👨‍💻 All of my projects are available at [https://dragoenix99czar.github.io/ - V2](https://dragoenix99czar.github.io/wip.html)
+- 👨‍💻 All of my projects are available at [https://dragoenix99czar.github.io/](https://dragoenix99czar.github.io/)
 
 - 💬 Ask me about **Game, Unity, System**
 
 - ⚡ Fun fact: **Dadhichi had it coming.**
+
+```bash
+curl https://dragoenix99czar.github.io/ak
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
