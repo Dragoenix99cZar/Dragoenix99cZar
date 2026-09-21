@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragoenix99czar&label=Profile%20views&color=0e75b6&style=flat" alt="dragoenix99czar" /> </p>
 
-- 🔭 I’m currently working on [File-Inspector (Rust)](https://github.com/Dragoenix99cZar/file-inspector)
+- 🔭 I’m currently working on [Pdf Arranger Clone (Rust)](https://github.com/Dragoenix99cZar/pdf-arranger-clone)
 
 - 🌱 I’m currently learning **Rust, Go, Wasm**
 
